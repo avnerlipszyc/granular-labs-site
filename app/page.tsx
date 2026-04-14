@@ -42,7 +42,7 @@ export default function Home() {
 
       <div>
         <a
-          href="mailto:hello@granularlabs.com"
+          href="mailto:avner@granular-labs.com"
           style={{
             fontFamily: "var(--font-kode-mono)",
             fontSize: "clamp(11px, 1.1vw, 14px)",
