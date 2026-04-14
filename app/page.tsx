@@ -28,7 +28,7 @@ export default function Home() {
         <p
           style={{
             fontFamily: "var(--font-kode-mono)",
-            fontSize: "clamp(11px, 1.2vw, 15px)",
+            fontSize: "clamp(11px, 3.5vw, 15px)",
             color: "#ffffff",
             lineHeight: 1.6,
             opacity: 0.9,
